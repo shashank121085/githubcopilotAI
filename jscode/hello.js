@@ -18,6 +18,6 @@ function fibonacciSeries(n) {
     return series;
 }
 
-const n = 10;
+const n = 5;
 const result = fibonacciSeries(n);
 console.log(result);
